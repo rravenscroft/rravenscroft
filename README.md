@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @rravenscroft
-- 👀 I’m interested in cyber security and Kung Fu 
-- 🌱 I’m currently learning terraform
+I’m interested in cyber security and Kung Fu 
 
 
 <!---
